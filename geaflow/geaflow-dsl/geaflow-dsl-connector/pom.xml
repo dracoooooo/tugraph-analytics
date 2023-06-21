@@ -35,6 +35,7 @@
         <module>geaflow-dsl-connector-hive</module>
         <module>geaflow-dsl-connector-console</module>
         <module>geaflow-dsl-connector-socket</module>
+        <module>geaflow-dsl-connector-pulsar</module>
     </modules>
 
     <dependencyManagement>
